@@ -1,6 +1,9 @@
 {
-	"color_scheme": "Packages/IR_Black/Themes/IR_Black.tmTheme",
+	"color_scheme": "Packages/Nate/IR_Black.tmTheme",
 	"font_face": "Consolas",
-	"font_size": 16,
-	"tab_size": 2
+	"font_size": 18,
+	"tab_size": 2,
+	"indent_guide_options": ["draw_active"],
+	"ensure_newline_at_eof_on_save": true,
+	"remember_open_files": false
 }
