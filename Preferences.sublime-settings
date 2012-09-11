@@ -1,9 +1,9 @@
 {
 	"color_scheme": "Packages/Nate/IR_Black.tmTheme",
-	"font_face": "Consolas",
-	"font_size": 18,
+	"font_face": "Ubuntu Mono",
+	"font_size": 20,
+	"line_padding_bottom": 2,
 	"tab_size": 2,
 	"indent_guide_options": ["draw_active"],
-	"ensure_newline_at_eof_on_save": true,
 	"remember_open_files": false
 }

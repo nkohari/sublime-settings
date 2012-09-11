@@ -1,0 +1,9 @@
+{
+  "cmd": ["stylus", "--include", "/usr/local/lib/node_modules/nib/lib", "$file"],
+  "file_regex": ".",
+  "selector": "source.stylus",
+  "osx":
+  {
+    "path": "/usr/local/bin:$PATH"
+  }
+}
